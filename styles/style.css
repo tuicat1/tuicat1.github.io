@@ -1,0 +1,37 @@
+html {
+    background-color: #E6CDAE;
+    font-size: 10px; /* the font size is 10 pixels high */
+    font-family: "Roboto", sans-serif; /* the font is taken from google fonts */
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+  
+p, li, a {
+    font-size: 30px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color:  #CD5C5C ;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+img {
+    display: block;
+    margin: 0 auto;
+  }
+  
